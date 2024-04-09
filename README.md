@@ -44,16 +44,15 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Current Stats
-</div>
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=okr-brdnicolas&theme=gotham&show_icons=true" alt="brdnicolas"/>
+<br />
 
-<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=okr-brdnicolas&show_icons=true&theme=gotham"/>
+<p>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=okr-brdnicolas&theme=gotham&show_icons=true" alt="brdnicolas"/>
+  <img width="49%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=okr-brdnicolas&show_icons=true&theme=gotham"/>
 </p>
 
-<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=okr-brdnicolas&theme=gotham"/>
-<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" alt="adam-pw" />
+<br/>
 
-</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
