@@ -15,7 +15,7 @@
 
 🌱 I’m currently learning React's design patterns
 
-📝 I regularly write articles on [dev.to](https://dev.to/exiosys)
+📝 I regularly write articles on [dev.to](https://dev.to/brdnicolas)
 
 📫 You can reach me at <a href="mailto:nicolas.brouard@ornikar.com">nicolas.brouard@ornikar.com</a>
 
